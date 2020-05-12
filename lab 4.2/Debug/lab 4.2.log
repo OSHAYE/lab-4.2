@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Course.h(16,91): error C2662: 'void Course::print(std::ostream &)': cannot convert 'this' pointer from 'const Course' to 'Course &'
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Course.h(16,76): message : Conversion loses qualifiers
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Course.h(12,14): message : see declaration of 'Course::print'
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\student.h(17,9): error C2065: 'cource': undeclared identifier
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Source.cpp(27,20): error C3867: 'std::vector<student,std::allocator<student>>::data': non-standard syntax; use '&' to create a pointer to member
+  student.cpp
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Course.h(16,91): error C2662: 'void Course::print(std::ostream &)': cannot convert 'this' pointer from 'const Course' to 'Course &'
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Course.h(16,76): message : Conversion loses qualifiers
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\Course.h(12,14): message : see declaration of 'Course::print'
+C:\Users\Oshaye\source\repos\lab 4.2\lab 4.2\student.h(17,9): error C2065: 'cource': undeclared identifier
+  Generating Code...
